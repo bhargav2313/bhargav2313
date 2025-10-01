@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhargav2313
-- 👀 I’m interested in data science
+- 👀 AI/ML engineer
 - 🌱 I’m currently learning data science
 - 📫 How to reach me @bhargavshanmukh057@gmail.com
 
